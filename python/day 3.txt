@@ -1,0 +1,40 @@
+===========================================================
+					Getting Started with PYTHON Programming
+			===========================================================
+=>History of PYTHON
+=>Version of Python--MNC
+=>Down Loading Process of Python Software
+=>Installation Process of Python
+===================================================================================================
+							History of PYTHON
+===================================================================================================
+=>The Python Programming Lang Concevived In the Year 1980
+=>The Python Programming Lang Implementation (Bring into action) in the Year 1989
+=>The Python Programming Lang Officially Released in the Year 1991 Feb
+=>The Python Programming Lang Developed by "GUIDO VAN ROSSUM" (Father OR Author of Python)
+ =>The Python Programming Lang Developed  at Centrum Wiskundi Informatica (CWI) Institue in Nether Lands.
+ =>The ABC Programming Language is the Predecessor of Python Programmin Lang.
+=>The Python Programming Lang Updations maintained and managed by a Non-Commercial Organization called "Python 
+    Software Foundation(PSF)".
+=>The Offiecial website of PSF is www.python.org
+===================================================================================================
+							Versions of PYTHON---Most IMP
+===================================================================================================
+=>A Version is nothing Numerical ID where we can understand which is the older Version, current version, latest version and 
+    future Versions.
+=>Python Programming Language Contains 3 Types of Versions. They are
+
+	1) Python 1.x  --->Here 1 is called Major Version and x represents 0 1 2 3 4 5 6 7..etc and called Minor Version
+			=>As on today Python 1.x is Oudated
+			=>NOTE That PYTHON Programming does not Contain Backward Compatablity
+			=>Python 2.x  does not Contain Backward Compatablity with Python 1.x
+	2) Python 2.x  --->Here 2 is called Major Version and x represents 0 1 2 3 4 5 6 7 and called Minor Version
+			=>As on today Python 2.x is Oudated
+			=>Python3.x  does not Contain Backward Compatablity with Python 2.x
+	3) Python 3.x  --->Here 3 is called Major Version and x represents 0 1 2 3 4 5 6 7,8,9,10,11,12 , 13 and called Minor Version
+		=>Now the Industry is using Python 3.x----Current Version
+===================================================================================================
+					DownLoading and Installing Process of Python Software
+===================================================================================================
+=>To DownLoad  Python Software, we must goto www.python.org and down load and Install
+===================================================================================================

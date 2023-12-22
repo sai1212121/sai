@@ -1,0 +1,82 @@
+==================================================
+						Data Representation in Python
+				==================================================
+Index
+---------------------------------------------------------------------------------------------
+=>What is Data
+=>Purpose of Data
+=>Types of Literals / Data / Values
+=>Importantace of Identifers OR Variables
+=>Rules for Using Identifers OR Variables in Python
+========================================================================================================
+			What is Data and Purpose of Data
+========================================================================================================
+=>What is Data: Processed Information is called Data (Structured Format of an Inforamtion is Called Data)
+=>The purpose of Data in organization is that "To Take Effective Decisions".
+=>To Process the Data and to take effective Decisions, we need a Programming Language--"PYTHON"
+=>To Store the Data , we must allocate memory space by using Data Types in Main Memory of the computer
+========================================================================================================
+				Types of Values / Literals / Data
+========================================================================================================
+=>Fundamentally, Literals are nothing But Types of Values entered by End Users.
+=>In Programming Languges, Literals are Classified into 5 Types. They are
+				1. Integer Literals
+				2. Floting Point Literals
+				3. String Literals
+				4. Boolean Literals
+				5. Collections Literals
+========================================================================================================
+			Importance of Identifers OR Variables
+========================================================================================================
+=>In Any Programming Language, Literals Must be Stored in Main Memory by allocating Sufficient  Amount of Memory space with the Help Of Data Types.
+=>We know that All types Literals are stored in main memory by having memory space.
+=>To Process values which are present in memory space , Programmers must give distinct names to created memory spaces. These distict names makes us to identify the values present in memory space and hence they are called IDENTIFIERS.
+=>The IDENTIFIER Values are Changing/ Varying during Program Execution and hence IDENTIFIERS are also called  VARIABLES.
+=>Hence All types of LITERALS OR VALUES are stored in the form VARIABLES and all Variables are called OBJECTS.
+------------------------------------
+Definition of Variable
+-----------------------------------
+=>A Variable is an Identifer whose value Changing / Varying During Program Execution.
+========================================================================================================
+		Rules for using Varaibles  OR Identiferes in Python Program
+========================================================================================================
+=>To Use the Varaibles  OR Identiferes in Python Program, we must follow the following Rules.
+
+--------
+Rule-1 : The Variable Name is a Combination of alphabets, digits and Special Symbol Under Score ( _ )
+---------
+Rule-2 : The First Letter of the Variable Name starts with either Alphabet or  Under Score ( _ )
+----------
+			Examples:       sal=56--valid
+						 1sal=54--Invalid
+						 sal_=67--valid
+						 __sal=56--valid
+						 _1=56--valid
+						 _$=67--Invalid
+-----------
+Rule-3:    Within the Variable Name, No special Symbols are allowed except Under Score ( _ )
+-----------
+		Examples:          emp sal=56----Inavlid
+					    emp$sal=56--Invalid
+					    emp_sal=56--Valid
+					    emp_123=56--valid
+					    emp-sal=6--Invalid
+					    emp__sal__=56--valid
+
+------------
+Rule-4:	No keywords to be Taken as variable Names
+------------
+		Examples:    False=6--Invalid
+				      if=67--Invalid
+				      if_=56--valid
+				      while=67--Invalid
+				      _while=56--value
+------------
+Rule-5:		All Variable Names  in Python are Case sensitive
+------------
+			Examples:       >>> age=99
+						>>> AGE=98
+						>>> Age=97
+						>>> aGe=96
+						>>> print(age,AGE,Age,aGe)--------------99 98 97 96
+===================================================
